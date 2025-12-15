@@ -1,4 +1,4 @@
-name: canbio-del-tiempo-a-cada-12-horas
+name: intento2
 
 on:
   schedule:
